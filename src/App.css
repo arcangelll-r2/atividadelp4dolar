@@ -1,0 +1,55 @@
+body {
+  background-color: gray
+}
+
+.App {
+  align-items: center;
+  background-color:white ;
+  border-radius: 10px;
+  width: 600px;
+  margin: auto;
+}
+
+.Título {
+  margin-top: 35px;
+  background-color: rgb(63, 180, 102);
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+}
+
+.Real {
+  text-align: center;
+  font-size: 25px;
+  width: 220px;
+  color: white;
+  width: 600px;
+  background-color: lightblue;
+  border-radius: 10px;
+}
+
+.Dolar {
+  text-align: center;
+  width: 600px;
+  font-size: 25px;
+  color: white;
+  background-color: lightblue;
+  border-radius: 10px;
+}
+.entrada1 {
+  padding: 15px;
+}
+.entrada2 {
+  padding: 15px
+}
+.Botao {
+  text-align: center;
+  color: white;
+  padding: 15px;
+  width: 570px;
+  border-radius: 100px;
+  background-color: red;
+
+}
